@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #00fffb;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    background-color: #aedea8;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     max-width: 400px;
@@ -52,7 +52,7 @@ header h1 {
 
 .bio p {
     font-size: 16px;
-    color: #555;
+    color: #0044ff;
     line-height: 1.5;
 }
 
@@ -63,7 +63,7 @@ header h1 {
 }
 
 .link-btn {
-    background-color: #007bff;
+    background-color: #229954;
     color: white;
     text-decoration: none;
     padding: 10px 20px;
